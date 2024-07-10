@@ -1,0 +1,7 @@
+num_classes: 3
+
+device: cuda:0
+#device: cpu
+batch_size: 12
+epochs: 15
+seed: 13
